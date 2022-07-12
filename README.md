@@ -1,2 +1,2 @@
 # pg-crud
-Connecting postgres database through nodejs
+Connecting postgres database through nodejs application
